@@ -1,6 +1,12 @@
+body {
+	font-family: 'Oswald', sans-serif;
+}
+.texto {
+	text-align: center;
+}
 ul {
 	list-style: none;
-	padding: 1em 13em;
+	padding: 1em 15.5em;
 }
 .link {
 	text-decoration: none;
@@ -33,31 +39,52 @@ ul {
 }
 .titulo2 {
 	text-align: center;
-	padding: 2em;
+	padding: 1em;
+	color: #9936d5;
 }
 .fondo {
 	background-image: url(../images/tile1.png);
 }
 .about	{
 	text-align: center;
-	color:purple;
+	color:#9936d5;
 	font-weight: bold;
 	font-size: 1.5em;
 	padding: 2em;
 }
+.parrafo2 {
+	width: 50em;
+}
 .fotoperfil {
 	border: 1px solid black;
+	padding: 0.2em;
 }
 .perfil	{
 	clear:both;
 	padding-left: 6em;
-	padding-right: 1	em;
+	padding-right: 1em;
 }
 .circulo {
 	border-radius: 10em;
-	border: 2px solid purple;
+	border: 2px solid #9936d5;
+	width: 90%;	
+	padding: 0.3em;
 }
 .espacio {
-	margin: 5em;
+	margin: 1em 7em;
 
+}
+.fondo2 {
+	background-image: url(../images/tile2.png);
+	text-align: center;
+	padding: 3em;
+}
+.footertitle {
+	margin: 1em;
+	font-size: 2em;
+	color: rgb(145,6,219);
+}
+.socialmedia {
+	margin-left: 20em;
+	margin-right: 20em;
 }
