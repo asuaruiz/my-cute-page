@@ -1,0 +1,63 @@
+ul {
+	list-style: none;
+	padding: 1em 13em;
+}
+.link {
+	text-decoration: none;
+	color: black;
+	font-weight: bolder;
+	float: left;
+	padding: 1em 2em;
+	margin: 0.5em;
+	text-align: center;
+}
+.imagen	{
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 80%%;
+	height: 31em;
+	width: 80em;
+	align-content: center;
+}
+.titulo {
+	text-align: center;
+	padding: 10em;
+}
+.nombre {
+	font-size: 3em;
+	color: white;
+}
+.tag {
+	font-size: 1.5em;
+	color: white;
+}
+.titulo2 {
+	text-align: center;
+	padding: 2em;
+}
+.fondo {
+	background-image: url(../images/tile1.png);
+}
+.about	{
+	text-align: center;
+	color:purple;
+	font-weight: bold;
+	font-size: 1.5em;
+	padding: 2em;
+}
+.fotoperfil {
+	border: 1px solid black;
+}
+.perfil	{
+	clear:both;
+	padding-left: 6em;
+	padding-right: 1	em;
+}
+.circulo {
+	border-radius: 10em;
+	border: 2px solid purple;
+}
+.espacio {
+	margin: 5em;
+
+}
